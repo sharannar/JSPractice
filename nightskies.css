@@ -1,0 +1,13 @@
+img {
+    margin:200px;
+    border-style: solid,red;
+}
+
+.button{
+    border-style:solid;
+}
+body{
+    background-blend-mode: luminosity ;
+    background-color:azure ;
+}
+
